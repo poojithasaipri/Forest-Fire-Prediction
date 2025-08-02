@@ -43,12 +43,12 @@ This project predicts the likelihood of forest fires based on meteorological and
 ##  Results
 
 | Model               | Accuracy |
-|--------------------|----------|
-| Logistic Regression| ~92%     |
-| Decision Tree      | ~91%     |
-| Random Forest      | ~95%     |
-| KNN                | ~87%     |
-| SVM                | ~93%     |
+|--------------------|---------|
+| Logistic Regression| 97%     |
+| Decision Tree      | 97%     |
+| Random Forest      | 96%     |
+| KNN                | 94%     |
+| SVM                | 93%     |
 
 >  *Random Forest performed the best among all models.*
 
